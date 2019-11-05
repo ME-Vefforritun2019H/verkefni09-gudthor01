@@ -7,12 +7,12 @@ CSS boxverkefni
 2.2 Búið til div tagg sem fær id "page" og á allt sem er inní body að fara inní þetta tagg
 
 2.2.1 Búið til div tagg sem fær id logo
-2.2.1.1 Inní þetta tagg, setjið upp image tagg sem vísar í myndina logo.gif og gefið því alternative "The Analog Specialists"
+2.2.1.1 Inní þetta tagg, setjið upp image tagg sem vísar í myndina logo.gif og gefið því alternative ""
 
 2.2.2 Búið til tagg fyrir óraðaða lista
-2.2.2.1 Búið til lista tagg og inní lista taggið á að setja upp a tagg sem vísar í "#", a taggið fær id "on" og milli a 
+2.2.2.1b Búið til lista tagg og inní lista taggið á að setja upp a tagg sem vísar í "#", a taggið fær id "on" og milli a 
         taggsins á að vera textinn "Home"
-2.2.2.2 Búið til lista tagg og inní lista taggið á að setja upp a tagg sem vísar í "#", milli a taggsins á að vera textinn 
+2.2.2.2b Búið til lista tagg og inní lista taggið á að setja upp a tagg sem vísar í "#", milli a taggsins á að vera textinn 
         "For Sale"
 2.2.2.3 Búið til lista tagg og inní lista taggið á að setja upp a tagg sem vísar í "#", milli a taggsins á að vera textinn 
         "Repairs"
@@ -29,19 +29,19 @@ CSS boxverkefni
       
 3.  Vinnið í CSS skjalinu
 3.1 Hafið áhrif á body taggið
-3.1.1 Setjið stærð á letri í 80%, leturtegundir eiga að vera "Courier New", Courier, monospace, hafa letur bil 0.15em
+3.1.1b Setjið stærð á letri í 80%, leturtegundir eiga að vera "Courier New", Courier, monospace, hafa letur bil 0.15em
       og bakgrunnslit #efefef
       
 3.2 Hafið áhrif á id page
 3.2.1 Setjið max width sem 940 pixla, min width sem 720 pixla
-3.2.2 Setjið margin í topp 10 pixla, hægri auto, botn 10 pixla og vinstri auto 
+3.2.2b Setjið margin í topp 10 pixla, hægri auto, botn 10 pixla og vinstri auto 
 3.2.3 Setjið padding í 20 pixla
 3.2.4 Setjið border í 4 pixla breidd, double stílinn og litinn #000
 3.2.5 Setjið bakgrunnslitinn #ffffff
 
 3.3 Hafið áhrif á id logo
 3.3.1 Setjið breidd í 150 pixla
-3.3.2 Setjið margin í topp 10 pixla, hægri auto, botn 25 pixla og vinstri auto
+3.3.2b Setjið margin í topp 10 pixla, hægri auto, botn 25 pixla og vinstri auto
 
 3.4 Hafið áhrif á ul taggið
 3.4.1 Setjið breiddina í 570 pixla
